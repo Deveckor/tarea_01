@@ -1,0 +1,67 @@
+*{
+    
+    font-family: monospace;
+    color: rgb(105, 104, 104);
+}
+
+.imagen-izquierda{
+    margin: 0;
+    
+
+}
+
+main{
+    margin: 15px;
+    border: .01px rgb(158, 154, 154) solid;
+    display: flex;
+    height: 50vh;
+    width: fit-content;
+    
+}
+#seccion-derecha{
+    min-height:fit-content ;
+}
+
+h2{
+    margin: 15px;
+    font-size: 3vh;
+    text-align: justify;
+}
+article{
+    margin: 15px;
+    text-align: justify;
+
+}
+#caja-inferior{
+    display: flex;
+    margin-bottom: 5px;
+    
+    
+
+
+}
+#img-mujer{
+    margin: 5px;
+    height: 10vh;
+    width: 10vh;
+    border-radius: 100px;
+}
+p{
+    margin: 20px;
+    width: 50%;
+    
+    
+}
+button{
+    
+    height: 6vh;
+    width: 6vh;
+    border: none;
+    border-radius: 70px;
+}
+
+#img-flecha{
+    height: 5vmax;
+    width: 5vh;
+
+}
